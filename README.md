@@ -58,7 +58,7 @@ Moreover, with an AUC of 79%, the model has a good ability to distinguish betwee
 The model has a moderate F1-score suggests that there may be a significant number of false positives or false negatives, impacting the overall effectiveness of the model.
 
 ## Findings and Conclusions
-1. . A recall of 69% means that the model correctly identifies 69% of the customers who actually churn. The model is relatively effective at identifying churners, but it still misses about 31% of actual churners (false negatives). This could lead to missed opportunities for retention efforts.
+1. A recall of 69% means that the model correctly identifies 69% of the customers who actually churn. The model is relatively effective at identifying churners, but it still misses about 31% of actual churners (false negatives). This could lead to missed opportunities for retention efforts.
 2. An AUC of 0.79 indicates that the model has a good ability to distinguish between customers who will churn and those who will not. While not as strong as a model with an AUC closer to 1.0, it still suggests that the model performs reasonably well at ranking customers by their likelihood to churn.
 3. With an F1-score of 64%, the model strikes a balance between capturing true churners (recall) and ensuring that the identified churners are indeed likely to churn (precision). However, the moderate F1-score suggests that there may be a significant number of false positives or false negatives, impacting the overall effectiveness of the model.
 
