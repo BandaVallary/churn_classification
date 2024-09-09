@@ -1,3 +1,6 @@
+![alt text](churn_image.jpeg)
+
+
 ## Business Understanding
 SyriaTel, a telecommunications company, faces a significant challenge with customer churn, where a significant portion of their customer base is leaving. This not only results in lost revenue but also increases the cost of acquiring new customers to replace those who churn. Given the competitive nature of the telecommunications industry, retaining existing customers is often more cost-effective than acquiring new ones. Therefore, reducing churn is vital for sustaining revenue streams, enhancing profitability, and maintaining market share.
 
